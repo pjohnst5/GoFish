@@ -1,0 +1,6 @@
+bulbasaur 1
+ivysaur 2
+charmander 3
+syther 4
+snorlax 5
+cheetah 6

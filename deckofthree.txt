@@ -1,0 +1,3 @@
+bulbasaur 1
+ivysaur 2
+charmander 3
