@@ -71,6 +71,5 @@ int main() {
 
 	cout << "Goodbye" << endl;
 
-system("pause");
 return 0;
 }
